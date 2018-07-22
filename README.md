@@ -8,8 +8,6 @@ Normally the changes lead to rebuilding Dalvik cache, please be patient when boo
 
 **v0.3**
 - Added more apps to remove.
-- Added Gboard.
-- Added GooglePlay Installer.
 
 **v0.2**
 - Added some build.prop optimizations.
