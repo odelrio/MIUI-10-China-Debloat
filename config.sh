@@ -136,15 +136,15 @@ set_permissions() {
 # Make update-binary as clean as possible, try to only do function calls in it.
 
 disable_bloatware() {
-	pm disable com.miui.video
-	pm disable com.miui.player
-  pm disable com.xiangkan.android
-  pm disable com.xiaomi.mimobile.noti
-  pm disable com.xiaomi.mibrain.speech
-  pm disable com.sohu.inputmethod.sogou.xiaomi
-  pm disable com.xiaomi.shop
-	pm disable com.wali.live
-  pm disable com.xiaomi.o2o
-  pm disable com.mi.liveassistant
-  pm disable com.baidu.input_mi
+    pm disable com.miui.video
+    pm disable com.miui.player
+    pm disable com.xiangkan.android
+    pm disable com.xiaomi.mimobile.noti
+    pm disable com.xiaomi.mibrain.speech
+    pm disable com.sohu.inputmethod.sogou.xiaomi
+    pm disable com.xiaomi.shop
+    pm disable com.wali.live
+    pm disable com.xiaomi.o2o
+    pm disable com.mi.liveassistant
+    pm disable com.baidu.input_mi
 }
